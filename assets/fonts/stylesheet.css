@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Helvetica';
+    src: url('Helvetica.woff2') format('woff2'),
+        url('Helvetica.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('BebasNeue-Regular.woff2') format('woff2'),
+        url('BebasNeue-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sukhumvit Set';
+    src: url('SukhumvitSet-Text.woff2') format('woff2'),
+        url('SukhumvitSet-Text.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sukhumvit Set';
+    src: url('SukhumvitSet-Bold.woff2') format('woff2'),
+        url('SukhumvitSet-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lucida Grande';
+    src: url('LucidaGrande.woff2') format('woff2'),
+        url('LucidaGrande.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kohinoor Bangla';
+    src: url('KohinoorBangla-Bold.woff2') format('woff2'),
+        url('KohinoorBangla-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
